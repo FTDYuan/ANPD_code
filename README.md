@@ -231,31 +231,12 @@ For reproducible experiments:
 - report results across folds or repeated runs;
 - avoid selecting preprocessing or model settings using the external test cohorts.
 
-## Pretrained Models
-
-Pretrained checkpoints will be provided in the `checkpoints/` directory or through the repository release page.
-
-```text
-checkpoints/
-├── anpd_full.pt
-├── shared_encoder.pt
-└── [additional checkpoints]
-```
-
-Update this section with the final checkpoint names and download links before public release.
 
 ## Citation
 
 The manuscript is currently under review. Please use the following temporary citation and replace it with the final journal citation after publication:
 
-```bibtex
-@article{yuan2026anpd,
-  title   = {An Addiction Neural Pattern Disentanglement Network Reframes Addiction Heterogeneity},
-  author  = {Yuan, Haozhang and Chen, Bianna and Bao, Yanping and Guo, Jifeng and Shen, Shu and Chen, C. L. Philip and Zhang, Tong},
-  journal = {Manuscript under review},
-  year    = {2026}
-}
-```
+
 
 ## Ethics and Responsible Use
 
